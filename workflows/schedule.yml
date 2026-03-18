@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs every 2 minutes
     - cron: "*/2 * * * *"
-
+ 
   # Optional: allow manual run from GitHub UI
   workflow_dispatch:
 
